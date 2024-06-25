@@ -1,1 +1,4 @@
-# thechakras
+# TheChakras
+---
+Commit to code daily 
+---
