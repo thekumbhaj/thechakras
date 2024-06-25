@@ -1,0 +1,8 @@
+Day -0
+
+Covered Topics in Graph
+1. Basic/fundamentals
+2. Some important Algorithms
+   - DFS
+   - BFS
+3. 
